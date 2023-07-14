@@ -1078,6 +1078,7 @@
 - [Marcelo Rockman](https://github.com/IItherockmanII)
 - [Thainara Antunes](https://github.com/thaiantunes)
 - [Luisa Nievas](https://github.com/lunievas)
+- [Shkumbin Sherifi](https://github.com/beme08)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Anthony Capecci](https://github.com/AnthonyCap13)
